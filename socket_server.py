@@ -1,3 +1,10 @@
+'''
+@Author:Purnendu Rath
+@Description:Server Application Send who send/receive message
+@Port:50000
+@Standalone application for use
+@Packet size restricted is 1024 Bytes
+'''
 # -*- coding: utf-8 -*-
 import socket
 
